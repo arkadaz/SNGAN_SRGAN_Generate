@@ -1,0 +1,6 @@
+Data 46x46/
+venv/
+SNGAN.ipynb
+.ipynb_checkpoints/
+46x46 save model trace/
+low46_high150 save model trace/
